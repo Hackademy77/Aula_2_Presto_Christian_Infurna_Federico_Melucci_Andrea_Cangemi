@@ -1,0 +1,183 @@
+[
+    {
+        "id":1,
+        "name": "Magnum Classic",
+        "category": "Cioccolato",
+        "price": "1.50"
+    },
+    {
+        "id":2,
+        "name": "Magnum Almond",
+        "category": "Cioccolato",
+        "price": "1.70"
+    },
+    {
+        "id":3,
+        "name": "Magnum Chocolate",
+        "category": "Cacao",
+        "price": "1.60"
+    },
+    {
+        "id":4,
+        "name": "Magnum White",
+        "category": "Cioccolato Bianco",
+        "price": "1.90"
+    },
+    {
+        "id":5,
+        "name": "Magnum Caffè",
+        "category": "Cioccolato",
+        "price": "1.80"
+    },
+    {
+        "id":6,
+        "name": "Magnum Nocciole",
+        "category": "Variegato",
+        "price": "2.20"
+    },
+    {
+        "id":7,
+        "name": "Magnum Ego",
+        "category": "Fruttato",
+        "price": "2.50"
+    },
+    {
+        "id":8,
+        "name": "Magnum Double Caramel",
+        "category": "Variegato",
+        "price": "2.30"
+    },
+    {
+        "id":9,
+        "name": "Magnum Double Chocolate",
+        "category": "Cioccolato",
+        "price": "1.90"
+    },
+    {
+        "id":10,
+        "name": "Magnum Caramel & nuts",
+        "category": "Variegato",
+        "price": "2.00"
+    },
+    {
+        "id":11,
+        "name": "Magnum Sandwich",
+        "category": "Variegato",
+        "price": "2.10"
+    },
+    {
+        "id":12,
+        "name": "Magnum Sette Peccati Capitali",
+        "category": "Limited Edition",
+        "price": "3.00"
+    },
+    {
+        "id":13,
+        "name": "Magnum Intense",
+        "category": "Cioccolato",
+        "price": "2.90"
+    },
+    {
+        "id":14,
+        "name": "Magnum 5 Sensi",
+        "category": "Limited Edition",
+        "price": "3.30"
+    },
+    {
+        "id":15,
+        "name": "Magnum Essence",
+        "category": "Cioccolato",
+        "price": "3.50"
+    },
+    {
+        "id":16,
+        "name": "Magnum Ecuador Dark",
+        "category": "Cioccolato",
+        "price": "3.20"
+    },
+    {
+        "id":17,
+        "name": "Magnum Colombia Aroma",
+        "category": "Variegato",
+        "price": "3.10"
+    },
+    {
+        "id":18,
+        "name": "Magnum Temptation",
+        "category": "Variegato",
+        "price": "2.40"
+    },
+    {
+        "id":19,
+        "name": "Magnum Temptation Chocolate",
+        "category": "Cioccolato Bianco",
+        "price": "2.70"
+    },
+    {
+        "id":20,
+        "name": "Magnum Temptation Fruit",
+        "category": "Fruttato",
+        "price": "2.60"
+    },
+    {
+        "id":21,
+        "name": "Magnum Gold",
+        "category": "Cioccolato al latte",
+        "price": "3.80"
+    },
+    {
+        "id":22,
+        "name": "Magnum Pistacchio",
+        "category": "Fruttato",
+        "price": "3.90"
+    },
+    {
+        "id":23,
+        "name": "Magnum Temptation Vaniglia-Nocciola",
+        "category": "Cioccolato al latte",
+        "price": "4.00"
+    },
+    {
+        "id":24,
+        "name": "Magnum Temptation Vaniglia-Arancia",
+        "category": "Fruttato",
+        "price": "4.10"
+    },
+    {
+        "id":25,
+        "name": "Magnum White Chocolate & Nuts",
+        "category": "Cioccolato Bianco",
+        "price": "1.20"
+    },
+    {
+        "id":26,
+        "name": "Magnum Ghana Nocciola",
+        "category": "Cioccolato al latte",
+        "price": "1.30"
+    },
+    {
+        "id":27,
+        "name": "Magnum Ecuador",
+        "category": "Cioccolato",
+        "price": "1.00"
+    },
+    {
+        "id":28,
+        "name": "Magnum Yoghurt Fresh",
+        "category": "Fruttato",
+        "price": "4.00"
+    },
+    {
+        "id":29,
+        "name": "Magnum Menta",
+        "category": "Fruttato",
+        "price": "4.20"
+    },
+    {
+        "id":30,
+        "name": "Magnum Infinity Chocolate",
+        "category": "Cioccolato",
+        "price": "4.50"
+    }
+    
+]
